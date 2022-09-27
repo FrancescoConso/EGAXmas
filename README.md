@@ -1,2 +1,2 @@
 # EGAXmas
-A Processing sketch I did in 2019.
+A Processing sketch I did in 2019. Full description pending.
